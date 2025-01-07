@@ -1,6 +1,7 @@
+import { Button } from 'antd';
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 
 const ProductDetailPage = () => {
     const { id } = useParams();
@@ -25,6 +26,7 @@ const ProductDetailPage = () => {
             <p>Product ID: {id}</p>
             <p>Price: {product?.price}</p>
             <p>Description: {product?.description}</p>
+            <Button type='primary' ><Link to={"/product"}>Trở lại</Link></Button>
         </div>
 
 
