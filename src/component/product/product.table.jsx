@@ -20,10 +20,9 @@ const ProductTable = () => {
         console.log(res);
 
         if (!res.data) {
-            // notification.error({
-            //     message: d.message
-            // })
-            alert("Không lấy được data từ sever");
+            notification.error({
+                message: "lỗi fetch data"
+            })
         }
         setListProduct(res.data);
         setLoading(false);
