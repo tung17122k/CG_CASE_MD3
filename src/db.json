@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "name": "Iphone",
+      "manufacture": {
+        "id": 2,
+        "name": "Nokia"
+      },
+      "sim": "1",
+      "feature": [
+        "Bluetooth"
+      ],
+      "id": "1"
+    },
+    {
+      "name": "Samsung",
+      "manufacture": {
+        "id": 1,
+        "name": "Sam sung"
+      },
+      "sim": "2",
+      "feature": [
+        "Bluetooth",
+        "5G"
+      ],
+      "id": "2"
+    },
+    {
+      "name": "Anhchanh",
+      "manufacture": {
+        "id": 5,
+        "name": "Black Berry"
+      },
+      "sim": "2",
+      "feature": [
+        "Bluetooth",
+        "5G"
+      ],
+      "id": "3"
+    },
+    {
+      "name": "Sony",
+      "manufacture": {
+        "id": 4,
+        "name": "Bphone"
+      },
+      "sim": "1",
+      "feature": [
+        "Bluetooth"
+      ],
+      "id": "4"
+    },
+    {
+      "name": "Bbbbb",
+      "manufacture": {
+        "id": 5,
+        "name": "Black Berry"
+      },
+      "sim": "1",
+      "feature": [
+        "Bluetooth",
+        "5G"
+      ],
+      "id": "5"
+    },
+    {
+      "id": "3acc",
+      "name": "sdqdsqdqs",
+      "manufacture": {
+        "id": "1",
+        "name": "Sam sung"
+      },
+      "sim": "1",
+      "feature": [
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "7c64",
+      "name": "sdqdsqdqssdq",
+      "manufacture": {
+        "id": "1",
+        "name": "Sam sung"
+      },
+      "sim": "1",
+      "feature": [
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "5788",
+      "name": "dsqdqdqsd",
+      "manufacture": {
+        "id": "1",
+        "name": "Sam sung"
+      },
+      "sim": "1",
+      "feature": [
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "efdc",
+      "name": "dsqdqdqssdqdsqd",
+      "manufacture": {
+        "id": "2",
+        "name": "Nokia"
+      },
+      "sim": "1",
+      "feature": [
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "9ae2",
+      "name": "tung2",
+      "manufacture": {
+        "id": "2",
+        "name": "Nokia"
+      },
+      "sim": "1",
+      "feature": [
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "5d75",
+      "name": "dsqdqewqw",
+      "manufacture": "samsung",
+      "feature": [
+        "4g"
+      ]
+    },
+    {
+      "id": "fab2",
+      "name": "dsaddsq",
+      "manufacture": "samsung",
+      "feature": [
+        "4g",
+        "bluetooth"
+      ]
+    },
+    {
+      "id": "9d03",
+      "name": "123",
+      "manufacture": "Sam sung",
+      "feature": [
+        "5g"
+      ]
+    },
+    {
+      "id": "95a3",
+      "name": "sadsad",
+      "manufacture": "Sam sung",
+      "feature": [
+        "4g"
+      ]
+    }
+  ],
+  "manufactures": [
+    {
+      "id": "1",
+      "name": "Sam sung"
+    },
+    {
+      "id": "2",
+      "name": "Nokia"
+    },
+    {
+      "id": "3",
+      "name": "Iphone"
+    },
+    {
+      "id": "4",
+      "name": "Bphone"
+    },
+    {
+      "id": "5",
+      "name": "Black Berry"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2",
+      "username": "chanhtv",
+      "password": "123",
+      "role": "USER"
+    }
+  ]
+}
